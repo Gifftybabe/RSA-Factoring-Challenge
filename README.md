@@ -1,6 +1,6 @@
 # RSA Factoring Challenge
 
-# Algorithm # Scripting
+## Algorithm #Scripting
 
 ![image](https://user-images.githubusercontent.com/105078661/208537372-3171dfba-f74a-4d8f-bcb0-d02b2bd86120.png)
 
