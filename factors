@@ -2,6 +2,7 @@
 """factorize given set of numbers in a file to product of two small numbers"""
 from sys import argv
 
+
 def factorize(number_to_check):
     """"find two small numbers that multiply to give a given number"""
     i = 2
